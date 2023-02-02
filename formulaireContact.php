@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="#">
+        <fieldset>
+            <legend>Formulaire de contact</legend>
+        </fieldset>
+    </form>
 </body>
 </html>
